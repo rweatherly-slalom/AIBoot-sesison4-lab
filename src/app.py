@@ -75,6 +75,19 @@ capabilities = {
         "capacity": 30,
         "consultants": ["amelia.lee@slalom.com", "harper.white@slalom.com"]
     },
+    "Slalom Build": {
+        "description": "Product strategy, design, and agile digital product development",
+        "practice_area": "Technology",
+        "skill_levels": ["Emerging", "Proficient", "Advanced", "Expert"],
+        "certifications": [
+            "Product Management Certification",
+            "Certified Scrum Product Owner",
+            "Design Thinking Certification"
+        ],
+        "industry_verticals": ["Consumer Products", "Financial Services", "Healthtech"],
+        "capacity": 40,
+        "consultants": []
+    },
     "Cybersecurity": {
         "description": "Information security strategy, risk assessment, and compliance",
         "practice_area": "Technology",
